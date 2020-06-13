@@ -1,0 +1,98 @@
+
+.row{
+	margin: 10px auto;
+	width: 1190px;
+}
+.nanmenu{
+	margin: 0 25px;
+}
+.navmenu span{
+	font-weight: bold;
+	padding: 0 20px;
+}
+.navmenu span:hover{
+	color: white;
+}
+.navmenu:hover{
+	background: #00754A;
+	border-radius: 3%;
+}
+.navmenu a{
+	color: #00754A;
+	font-weight: 500;
+}
+.nav-item a:hover{
+	color: ghostwhite;
+}
+.navmenu:last-child{
+	background: white;
+}
+.navmenu:nth-last-child(2){
+	margin-left: 3px;
+	background: white;
+}
+
+.btn-green {
+  background-color: #1AA640;
+  border-color: green;
+}
+
+.iconmenu a:hover{
+	background-color: white;
+	border-radius: 50%;
+}
+ul{
+	list-style-type: none;
+}
+
+.footermenu a{
+	color: black;
+}
+.navmenudrinks a{
+	color: #1E3932;
+}
+section .nav-item a:hover{
+	color: #0ED145;
+}
+.imageBlock{
+	border-radius: 50%;
+	overflow: hidden;
+}
+.gioithieu{
+	position: absolute;
+	top: 250px;
+	left: 250px;
+}
+.gioithieu1{
+	position: absolute;
+	top: 290px;
+	left: 250px;
+}
+.row-item img:hover{
+	box-shadow: 0 0 15px 0 #0ED145;
+}
+.text-block{
+  position: absolute;
+  bottom: -360px;
+  right: 20px;
+  color: white;
+  padding-left: 550px;
+  padding-right: 550px;
+}
+.tuyendung{
+	position: absolute;
+	top: 230px;
+	left: 165px;
+	width: 500px;
+	background-color: #00754A;
+	color: white;
+}
+.hiring ol li{
+	font-size: 20px;
+	margin-top: 10px;
+}
+select{
+	font-size: 20px;
+	width: 280px;
+	height: 50px;
+}
